@@ -56,15 +56,27 @@ pip install -r requirements.txt
 python server.py
 ```
 
-## 📷 Screenshots
 
-*(Add images in a `screenshots/` folder and embed here)*  
-Example:
+ 📷 Screenshots
 
-```md
-![Login Page](screenshots/login.png)
-![Admin Dashboard](screenshots/dashboard.png)
-```
+### Login Page
+![Login](screenshots/screenshot_1.png)
+
+### Admin Dashboard
+![Dashboard](screenshots/screenshot_3.png)
+
+### Application Form
+![Form](screenshots/screenshot_5.jpeg)
+
+### Applicant Registration
+![Register](screenshots/screenshot_7.png)
+
+### Document Upload
+![Upload](screenshots/screenshot_12.jpeg)
+
+### Confirmation Page
+![Confirmation](screenshots/screenshot_16.png)
+
 
 ## 👤 Author
 
